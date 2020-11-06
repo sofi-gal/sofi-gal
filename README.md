@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sofia Galzerano</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Coderhouse Web Development**
+- 🔭 I’m currently working on **Coderhouse Web Project**
 
-- 🌱 I’m currently learning **MERN and MEAN Stacks**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **sofiagalzerano@gmail.com**
 
