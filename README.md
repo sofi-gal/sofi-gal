@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **A Web Project @ Coderhouse**
 
-- 🌱 I’m currently learning **MERN Stack**, **MEAN Stack** and **Web ASP.NET Core MVC**
-
 - 📫 How to reach me **sofiagalzerano@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
