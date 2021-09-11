@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sofia Galzerano</h1>
 <h3 align="center">A passionate Fullstack Developer from Argentina</h3>
 
-- 🔭 I’m currently working on **A Web Project @ Coderhouse**
-
 - 📫 How to reach me **sofiagalzerano@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
