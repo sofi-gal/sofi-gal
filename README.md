@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sofia Galzerano</h1>
-<h3 align="center">A passionate Fullstack Developer from Argentina</h3>
+<h3 align="center">A passionate Fullstack .NET Developer from Argentina</h3>
 
 - 📫 How to reach me **sofiagalzerano@gmail.com**
 
